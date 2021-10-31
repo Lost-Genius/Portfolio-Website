@@ -4,6 +4,7 @@
   --main-red: #be3144;
   --main-blue: #45567d;
   --main-gray: #303841;
+  --main-black: #000000;
 }
 
 /* Base reset */
@@ -169,7 +170,7 @@ img {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: var(--main-black);
 }
 
 .projects-section-header {
